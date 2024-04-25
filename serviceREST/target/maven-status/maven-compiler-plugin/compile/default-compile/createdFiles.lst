@@ -1,0 +1,4 @@
+org\example\servicerest\DatabaseConnectionController.class
+org\example\servicerest\ServiceRestApplication.class
+org\example\servicerest\DatabaseConnectionService.class
+org\example\servicerest\MessageControler.class
